@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  width="90"
+  height="80"
+  viewBox="0 0 80 90"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Texto "iOS" genérico, letras negras con fondo transparente -->
+    <text
+    x="0"
+    y="60%"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif"
+    font-size="70"
+    fill="#000000"
+    font-weight="500"
+    textLength="90"
+    lengthAdjust="spacingAndGlyphs"
+    dominant-baseline="middle"
+  >
+    iOS
+  </text>
+</svg>
