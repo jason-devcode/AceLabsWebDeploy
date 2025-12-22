@@ -1,4 +1,4 @@
-import{j as e}from"./jsx-runtime.D_zvdyIk.js";import{m as s}from"./mobile_casual_game_screenshot.Bsy3Mrd4.js";import{c as a}from"./createLucideIcon.CjEweWbi.js";import{m as l}from"./proxy.B4Osx2Cj.js";import"./index.DejJO07R.js";const o={src:"/AceLabsWebDeploy/_astro/animation_storyboard_sketch.CEW401pZ.webp",width:1408,height:768,format:"webp"},r={src:"/AceLabsWebDeploy/_astro/3d_character_design_process.BZdjuuRu.webp",width:1408,height:768,format:"webp"};/**
+import{j as e}from"./jsx-runtime.D_zvdyIk.js";import{m as s}from"./mobile_casual_game_screenshot.Bsy3Mrd4.js";import{c as a}from"./createLucideIcon.qy4RABET.js";import{m as l}from"./proxy.CkXtCpqz.js";import"./index.CUFCSmLJ.js";const o={src:"/AceLabsWebDeploy/_astro/animation_storyboard_sketch.CEW401pZ.webp",width:1408,height:768,format:"webp"},r={src:"/AceLabsWebDeploy/_astro/3d_character_design_process.BZdjuuRu.webp",width:1408,height:768,format:"webp"};/**
  * @license lucide-react v0.555.0 - ISC
  *
  * This source code is licensed under the ISC license.
